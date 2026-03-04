@@ -38,7 +38,7 @@ local themes = {
 				['Background'] = Color3.fromRGB(29, 28, 38),
 				['Value Background'] = Color3.fromRGB(24, 24, 31),
 				['Value Stroke'] = Color3.fromRGB(255, 255, 255),
-				['Slider Bar'] = Color3.fromRGB(254, 168, 40),
+				['Slider Bar'] = Color3.fromRGB(44, 34, 103),
 				['Slider Bar Value'] = Color3.fromRGB(91, 68, 209),
 				['Circle Value'] = Color3.fromRGB(255, 255, 255)
 			},
